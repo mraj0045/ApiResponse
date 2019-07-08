@@ -1,6 +1,6 @@
 {
 	"errorResponse":{
 		"error":1212,
-		"reason1":"Test Error Message"
+		"reason":"Test Error Message"
 	}
 }
